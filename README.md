@@ -18,7 +18,7 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) |
 | ---------- | ------------ | ------------------------- |
-| 120090692  | 吴🚩      | sanzhang@gmail.com        |
+| 120090692  | 吴🚩         | sanzhang@gmail.com        |
 | 123010345  | 李四         | sili@outlook.com          |
 | 123030245  | 王五         | wuwang@foxmail.com        |
 | 123020245  | 陈六         | liuchen@qq.com            |
@@ -39,3 +39,20 @@ As for Option 2, our topic background specification can be found in [background-
 ## Project Abstract
 
 <!-- TODO -->
+### Function
+#### Consumer Mode
+- Login in as consumer
+- List all types of chips
+- Search for specific chips
+- Display detailed information of chip
+- Select plants for each processes
+- Online payment
+- Scheduled time
+- Real-time production tracing with Gantt-Chart
+- Check machine status
+#### Plant Mode
+- Login in as plant owner
+- Modify machine status
+- Edit plant information
+- Check package status
+- Earning report
