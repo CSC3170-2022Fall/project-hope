@@ -21,7 +21,7 @@ Our team consists of the following members, listed in the table below (the team 
 | 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |
 | 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|
 | 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn        |
-| 120090391  | 张绮月        | 120090391@link.cuhk.edu.cnlink.cuhk.edu.cn            |
+| 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn            |
 | 123010249  | 朱九         | jiuzhu@163.com            |
 
 ## Project Specification
