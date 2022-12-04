@@ -18,7 +18,7 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) |
 | ---------- | ------------ | ------------------------- |
-| 120090692  | 吴🚩         | sanzhang@gmail.com        |
+| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |
 | 123010345  | 李四         | sili@outlook.com          |
 | 123030245  | 王五         | wuwang@foxmail.com        |
 | 123020245  | 陈六         | liuchen@qq.com            |
