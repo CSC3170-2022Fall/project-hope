@@ -23,6 +23,7 @@ Our team consists of the following members, listed in the table below (the team 
 | 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn        |
 | 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn            |
 | 119010264  | 史顺天        | 2269715318@qq.com         |
+| 120090323  | 雷子琛        | 120090323@link.cuhk.edu.cn         |
 
 ## Project Specification
 
