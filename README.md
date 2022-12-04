@@ -20,7 +20,7 @@ Our team consists of the following members, listed in the table below (the team 
 | ---------- | ------------ | ------------------------- |
 | 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |
 | 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|
-| 123030245  | 王五         | wuwang@foxmail.com        |
+| 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn        |
 | 123020245  | 陈六         | liuchen@qq.com            |
 | 123010249  | 朱九         | jiuzhu@163.com            |
 
