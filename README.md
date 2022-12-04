@@ -57,3 +57,5 @@ As for Option 2, our topic background specification can be found in [background-
 - Edit plant information
 - Check package status
 - Earning report
+
+**Information for entities is on groupproject.docx**
