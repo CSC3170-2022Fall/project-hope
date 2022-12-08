@@ -59,3 +59,6 @@ As for Option 2, our topic background specification can be found in [background-
 - Earning report
 
 **Information for entities is on groupproject.docx**
+
+### ER diagram
+![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/-1abdb58814f76ee3.png)
