@@ -18,7 +18,7 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) | Github Account Name|
 | ---------- | ------------ | ------------------------- | ---|
-| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |@Alblozm[https://github.com/Alblozm]|
+| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |[@Alblozm](https://github.com/Alblozm)|
 | 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|---|
 | 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn |@doubleY2002|
 | 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn|@BeagleKing|
