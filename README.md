@@ -16,14 +16,14 @@ Our team consists of the following members, listed in the table below (the team 
 
 <!-- change the info below to be the real case -->
 
-| Student ID | Student Name | GitHub Account (in Email) |
-| ---------- | ------------ | ------------------------- |
-| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |
-| 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|
-| 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn        |
-| 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn            |
-| 119010264  | 史顺天        | 2269715318@qq.com         |
-| 120090323  | 雷子琛        | 120090323@link.cuhk.edu.cn         |
+| Student ID | Student Name | GitHub Account (in Email) | Github Account Nmae|
+| ---------- | ------------ | ------------------------- | ---|
+| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |---|
+| 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|---|
+| 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn |---|
+| 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn|@BeagleKing|
+| 119010264  | 史顺天        | 2269715318@qq.com         |---|
+| 120090323  | 雷子琛        | 120090323@link.cuhk.edu.cn|---|
 
 ## Project Specification
 
