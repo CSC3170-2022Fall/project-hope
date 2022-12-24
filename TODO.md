@@ -3,7 +3,7 @@
 - [x] 3. Draw the ER-diagram
 - [x] 4. Design the corresponding functionalities for customer 
 - [x] 5. Design the corresponding functionalities for plant
-- [ ] 6. Implement the database system
+- [x] 6. Implement the database system
 - [ ] 7. Realize the functionalities for customer 
 - [ ] 8. Realize the functionalities for plant
 - [ ] 9. Design the website and realize the front-edge
