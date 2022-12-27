@@ -4,7 +4,7 @@
 - [x] 4. Design the corresponding functionalities for customer 
 - [x] 5. Design the corresponding functionalities for plant
 - [x] 6. Implement the database system
-- [ ] 7. Realize the functionalities for customer 
+- [x] 7. Realize the functionalities for customer 
 - [ ] 8. Realize the functionalities for plant
-- [ ] 9. Design the website and realize the front-edge
+- [x] 9. Design the website and realize the front-edge
 - [ ] 10. Visualize certain functionalities
