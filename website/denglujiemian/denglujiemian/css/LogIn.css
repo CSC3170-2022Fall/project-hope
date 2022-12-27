@@ -1,0 +1,54 @@
+h1{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-size: small;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+
+
+a{
+    font-size: small;
+    color: brown;
+}
+
+.post1{
+    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    color: rgb(96, 40, 148);
+    width: 400px;
+    height: 300px;
+    
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    text-align: center;
+    vertical-align:middle;
+    line-height: 30px;
+    border-radius: 10px;
+}
+
+.post1 h1 {
+    font-size: 30px;
+    font-family: 'Lucida Calligraphy', cursive;
+    margin-bottom: 20px;
+}
+
+input[type=button]{
+    width: 100px;
+    height: 40px;
+    line-height: 18px;
+    background-color: rgb(253, 253, 253));
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 10px;
+}

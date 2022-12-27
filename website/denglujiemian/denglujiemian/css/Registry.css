@@ -1,0 +1,45 @@
+h1{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(223, 255, 244);
+}
+
+p{
+    font-size: small;
+    color: black;
+}
+
+a{
+    font-size: small;
+    color: brown;
+}
+
+.post1{
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(96, 40, 148);
+    width: 400px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.822);
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: table-cell;
+    text-align: center;
+    vertical-align:middle;
+    line-height: 25px;
+    border-radius: 10px;
+}
+
+input[type=submit]{
+    width: 200px;
+    height: 40px;
+    line-height: 18px;
+    background-color: rgb(43, 255, 149);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
