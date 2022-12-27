@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Box</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form class = "searchBox" action="plantchoose.php" method="post">
+        
+           
+            <div class = "search">
+                 <button type="submit" onclick="SetCookie()">
+                    <ion-icon name="search-outline" ></ion-icon>
+                 </button>
+            </div>
+        
+            
+            <div class = "serachInput">
+                <input type = "text" id="searchTxt" name="CHIP_TYPE_ID" placeholder="Search chip type here">
+            </div>
+            <div class = "close"><ion-icon name="close-outline"></ion-icon></div> 
+            
+            <!-- <button type="submit">
+              submit
+            </button> -->
+        </form>
+
+    <!-- <button onclick="window.location.href='www.baidu.com'">try</button> -->
+    
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script>
+        let search = document.querySelector('.search')
+        let close = document.querySelector('.close')
+        let searchBox = document.querySelector('.searchBox')
+        search.onclick = function(){
+            searchBox.classList.add('active');
+        }
+        close.onclick = function(){
+            searchBox.classList.remove('active');
+        }
+    </script>
+    <script>
+        function getData(){
+            var searchKey = document.getElementById("searchTxt").value;
+            spanTxt.innerHTML=searchKey;
+            console.log(searchKey);
+        }
+        function SetCookie(cookieName,cookieValue){
+            document.cookie=cookieName+"="+escape(cookieValue);
+        }
+    </script>
+</body>
+</html>
