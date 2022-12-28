@@ -61,6 +61,8 @@ As for Option 2, our topic background specification can be found in [background-
 **Information for entities is on groupproject.docx**
 
 presentation video link: https://www.bilibili.com/video/BV1RD4y1j7Dd/?vd_source=963706335d2a2afee89f373346c51353
+
+
 ppt of presentation: https://github.com/CSC3170-2022Fall/project-hope/blob/main/Project_Presentation_Hope%20.pdf
 
 ### ER diagram
