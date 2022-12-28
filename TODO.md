@@ -1,0 +1,10 @@
+- [x] 1. Design each entity in our database system
+- [x] 2. Determine the relation between each entity
+- [x] 3. Draw the ER-diagram
+- [x] 4. Design the corresponding functionalities for customer 
+- [x] 5. Design the corresponding functionalities for plant
+- [x] 6. Implement the database system
+- [x] 7. Realize the functionalities for customer 
+- [x] 8. Realize the functionalities for plant
+- [x] 9. Design the website and realize the front-edge
+- [x] 10. Visualize certain functionalities

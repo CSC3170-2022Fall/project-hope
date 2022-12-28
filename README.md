@@ -16,13 +16,14 @@ Our team consists of the following members, listed in the table below (the team 
 
 <!-- change the info below to be the real case -->
 
-| Student ID | Student Name | GitHub Account (in Email) |
-| ---------- | ------------ | ------------------------- |
-| 123010245  | 张三 🚩      | sanzhang@gmail.com        |
-| 123010345  | 李四         | sili@outlook.com          |
-| 123030245  | 王五         | wuwang@foxmail.com        |
-| 123020245  | 陈六         | liuchen@qq.com            |
-| 123010249  | 朱九         | jiuzhu@163.com            |
+| Student ID | Student Name | GitHub Account (in Email) | Github Account Name|
+| ---------- | ------------ | ------------------------- | ---|
+| 120090692  | 吴冬乔🚩      | Alblozm@outlook.com       |[@Alblozm](https://github.com/Alblozm)|
+| 120090730  | 谢北辰        | 120090730@link.cuhk.edu.cn|[@Bayson-create](https://github.com/Bayson-create)|
+| 120090516  | 杨吟         | 120090516@link.cuhk.edu.cn |[@doubleY2002](https://github.com/doubleY2002)|
+| 120090391  | 张绮月        | 120090391@link.cuhk.edu.cn|[@BeagleKing](https://github.com/BeagleKing)|
+| 119010264  | 史顺天        | 2269715318@qq.com         |[@Xixingsiuuz](https://github.com/Xixingsiuuz)|
+| 120090323  | 雷子琛        | 120090323@link.cuhk.edu.cn|[@Leoleizi](https://github.com/Leoleizi)|
 
 ## Project Specification
 
@@ -39,3 +40,25 @@ As for Option 2, our topic background specification can be found in [background-
 ## Project Abstract
 
 <!-- TODO -->
+### Function
+#### Consumer Mode
+- Login in as consumer
+- List all types of chips
+- Search for specific chips
+- Display detailed information of chip
+- Select plants for each processes
+- Online payment
+- Scheduled time
+- Real-time production tracing with Gantt-Chart
+- Check machine status
+#### Plant Mode
+- Login in as plant owner
+- Modify machine status
+- Edit plant information
+- Check package status
+- Earning report
+
+**Information for entities is on groupproject.docx**
+
+### ER diagram
+![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/other%20information/-1abdb58814f76ee3.png)
