@@ -20,7 +20,7 @@ We provide many services:
 Users can query chip information that he has not ordered. When he has set all the parameters required for production and submitted it, he can pay for the order, and the factory starts production.
 
 #### Query package: 
-users can query enough package information. After entering the package number, the system will display the data.
+Users can query enough package information. After entering the package number, the system will display the data.
 
 #### Query machine: 
 Entering the machine number, the user can check the machine status. The number 1 in the status parameter column indicates that the machine is working, and 0 indicates that the machine is not working.
