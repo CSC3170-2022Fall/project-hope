@@ -19,12 +19,18 @@ We provide many services:
 #### Chip search: 
 Users can query chip information that he has not ordered. When he has set all the parameters required for production and submitted it, he can pay for the order, and the factory starts production.
 
+![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/other%20information/6681672238634_.pic.jpg)
+
 #### Query package: 
 Users can query enough package information. After entering the package number, the system will display the data.
+
+![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/other%20information/6691672238635_.pic.jpg)
 
 #### Query machine: 
 Entering the machine number, the user can check the machine status. The number 1 in the status parameter column indicates that the machine is working, and 0 indicates that the machine is not working.
 The platform will notify the user of an error if the input type is illegal.
+
+![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/other%20information/6701672238635_.pic.jpg)
 
 The factory pattern also provides machine queries: 
 - Check the machine status
