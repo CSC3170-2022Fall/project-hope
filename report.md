@@ -6,6 +6,8 @@ Our platform supports two login methods: user mode and plant mode.
 
 We help users manage the package information of a class of chips. Moreover, we use types to distinguish similar things and names to locate individuals. Such as chip and chip type. The method above helps us sort and categorize.
 
+We constructed a right-plant-led pyramid-structured database. We note the importance of operational data from which we can infer the state of machines and operations. We capture correlations between chips, operations, and machines. We will create queries and modify paths from this connection. At the same time, we will link the order determined according to the status of the part to the customer.
+
 ### Functions
 #### Login interface:
 - The user can enter the account number and password to log in. You can also register a new account. If the account and password do not match, the login will fail. After successful login, the user can place an order for chips.
