@@ -8,7 +8,7 @@ We help users manage the package information of a class of chips. Moreover, we u
 
 We constructed a right-plant-led pyramid-structured database. We note the importance of operational data from which we can infer the state of machines and operations. We capture correlations between chips, operations, and machines. We will create queries and modify paths from this connection. At the same time, we will link the order determined according to the status of the part to the customer.
 
-In particular, we connect the database and the webpage together through phpstudy.
+In particular, we connect the database and the webpage through phpstudy.
 
 ### Functions
 #### Login interface:
@@ -16,7 +16,7 @@ In particular, we connect the database and the webpage together through phpstudy
 
 - In factory mode, users can log in by factory number. After successful login, he can see all chip and package information.
 
-We provide many services:
+We provide many services (the following are some crucial features):
 
 #### Chip search: 
 Users can query chip information that he has not ordered. When he has set all the parameters required for production and submitted it, he can pay for the order, and the factory starts production.
