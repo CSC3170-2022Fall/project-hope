@@ -61,7 +61,7 @@ align-items:center;">
 
            $row = mysqli_fetch_assoc($result);
 
-           echo "".$row['MACHINE_TYPE']."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+           echo "".$row['MACHINE_TYPE_ID']."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
            echo "".$row['PLANT_ID']."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
