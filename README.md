@@ -65,5 +65,7 @@ presentation video link: https://www.bilibili.com/video/BV1RD4y1j7Dd/?vd_source=
 
 ppt of presentation: https://github.com/CSC3170-2022Fall/project-hope/blob/main/Project_Presentation_Hope%20.pdf
 
+report of project: [report.md](report.md)
+
 ### ER diagram
 ![picture](https://github.com/CSC3170-2022Fall/project-hope/blob/main/other%20information/-1abdb58814f76ee3.png)
