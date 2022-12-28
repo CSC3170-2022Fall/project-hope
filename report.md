@@ -6,7 +6,8 @@ Our platform supports two login methods: user mode and plant mode.
 
 We help users manage the package information of a class of chips. Moreover, we use types to distinguish similar things and names to locate individuals. Such as chip and chip type. The method above helps us sort and categorize.
 
-### Login interface:
+### Functions
+#### Login interface:
 - The user can enter the account number and password to log in. You can also register a new account. If the account and password do not match, the login will fail. After successful login, the user can place an order for chips.
 
 - In factory mode, users can log in by factory number. After successful login, we can see all chip and package information.
